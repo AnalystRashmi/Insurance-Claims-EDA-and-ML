@@ -14,24 +14,26 @@ The data here is the claim data for two years(2008 & 2009).
 
 Attribute Information:
 
-Name		      Description
-------              -------------
-age                  age of member
-alzheimers           binary(0&1)
-arthritis            binary(0&1)
-cancer               binary(0&1)
-copd                 binary(0&1)
-depression           binary(0&1)
-diabetes             binary(0&1)
-heart.failure        binary(0&1)
-ihd                  binary(0&1)
-kidney               binary(0&1)
-osteoporosis         binary(0&1)
-stroke               binary(0&1)
-reimbursement2008    reimbursement amount for member in year 2008
-bucket2008           Cost bucket to which member belongs in year 2008
-reimbursement2009    reimbursement amount for member in year 2009
-bucket2009           Cost bucket to which member belongs in year 2009
+                 Name		         Description
+	              -------		       -------------
+	           age                         age of member
+               alzheimers                  binary(0&1)
+               arthritis                   binary(0&1)
+               cancer                      binary(0&1)
+               copd                        binary(0&1)
+               depression                  binary(0&1)
+               diabetes                    binary(0&1)
+               heart.failure               binary(0&1)
+               ihd                         binary(0&1)
+               kidney                      binary(0&1)
+               osteoporosis                binary(0&1)
+               stroke                      binary(0&1)
+               reimbursement2008           reimbursement amount for member in year 2008
+               bucket2008                  Cost bucket to which member belongs in year 2008
+               reimbursement2009           reimbursement amount for member in year 2009
+               bucket2009                  Cost bucket to which member belongs in year 2009
+
+
 
 
 Objective of project is to determine the bucket to which individual belongs based on what diseases he/she has.
