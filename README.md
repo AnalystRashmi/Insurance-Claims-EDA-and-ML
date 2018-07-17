@@ -15,7 +15,7 @@ The data here is the claim data for two years(2008 & 2009).
 Attribute Information:
 
                  Name		         Description
-	              -------		       -------------
+	            ---------		     ----------------
 	           age                         age of member
                alzheimers                  binary(0&1)
                arthritis                   binary(0&1)
